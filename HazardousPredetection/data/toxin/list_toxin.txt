@@ -1,0 +1,2 @@
+['ammonia','Cl','benzamide','phenol','cumene','formaldehyde','styrene','biphenyl','acetophenone','naphthalene','acrylicacid','butylacrylate','propene','sulfuricacid','nitrobenzene','ethyleneoxide','quinoline']
+['N','Cl','NC(=O)c1ccccc1','Oc1ccccc1','CC(C)c1ccccc1','C=O','C=Cc1ccccc1','c1ccc(-c2ccccc2)cc1','CC(=O)c1ccccc1','c1ccc2ccccc2c1','C=CC(=O)O','C=CC(=O)OCCCC','C=CC','O=S(=O)(O)O','O=[N+]([O-])c1ccccc1','C1CO1','c1ccc2ncccc2c1']
