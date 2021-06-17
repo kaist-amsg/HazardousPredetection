@@ -87,6 +87,8 @@ while True:
     reaction_list.append(reaction[0])
 f.close()
 
+uniqueFPs = library[0]
+
 reaction_fps = []
 for i in reaction_list:
     reaction = i
